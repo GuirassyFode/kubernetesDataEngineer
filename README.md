@@ -196,7 +196,10 @@ Before you begin, ensure you have the following:
 - **Apache Airflow**: Access the Airflow web UI to manage, schedule, and monitor workflows.
 
 Feel free to explore and customize this setup according to your data engineering needs!
-![image](https://github.com/GuirassyFode/kubernetesDataEngineer/assets/25976326/25605288-88a0-4f20-85df-6b0d32db8396)
+
+
+![image](https://github.com/GuirassyFode/kubernetesDataEngineer/assets/25976326/04310357-2c07-4362-8b72-caeffad9585e)
+
 ## Usage
 
 - **Kubernetes Dashboard**: Utilize the Dashboard to monitor and manage the Kubernetes cluster.
