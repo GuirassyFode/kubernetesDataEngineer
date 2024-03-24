@@ -1,0 +1,3 @@
+fernetKey: "MjlSYUpNRE81QTJYdG0xN2liNUl4YWhEbVFUNzlwNDE="
+webserverSecretKey: "MjlSYUpNRE81QTJYdG0xN2liNUl4YWhEbVFUNzlwNDE="
+executor: "KubernetesExecutor"
