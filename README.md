@@ -158,7 +158,7 @@ Before you begin, ensure you have the following:
     kubectl proxy
 
     
-![image](https://github.com/GuirassyFode/kubernetesDataEngineer/assets/25976326/f7dc51ca-4d4b-4f28-b32a-4742cd30b9c7)
+
 ```
 
     Access the Dashboard at: [http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/](http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/).
