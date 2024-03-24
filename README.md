@@ -198,7 +198,10 @@ Before you begin, ensure you have the following:
 Feel free to explore and customize this setup according to your data engineering needs!
 
 
-![image](https://github.com/GuirassyFode/kubernetesDataEngineer/assets/25976326/04310357-2c07-4362-8b72-caeffad9585e)
+![image](https://github.com/GuirassyFode/kubernetesDataEngineer/assets/25976326/187dfbd3-f28e-4912-b70a-7abc81dead60)
+
+
+
 
 
 ## Usage
