@@ -200,6 +200,7 @@ Feel free to explore and customize this setup according to your data engineering
 
 ![image](https://github.com/GuirassyFode/kubernetesDataEngineer/assets/25976326/04310357-2c07-4362-8b72-caeffad9585e)
 
+
 ## Usage
 
 - **Kubernetes Dashboard**: Utilize the Dashboard to monitor and manage the Kubernetes cluster.
