@@ -72,11 +72,13 @@ Before you begin, ensure you have the following:
     kubectl proxy
     ```
 
-    Access the Dashboard at: [http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/](http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/).
+    Access the Dashboard at: 
+   (http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/)
+   
 
     Log in using the token generated for the admin user (refer to `dashboard-secret.yaml`).
 
-4. **Deploy Apache Airflow**:
+5. **Deploy Apache Airflow**:
 
     You can deploy Apache Airflow using Helm or by applying custom YAML files. For Helm:
 
@@ -87,7 +89,7 @@ Before you begin, ensure you have the following:
 
     This will deploy Airflow with the settings defined in `values.yaml`.
 
-5. **Running Apache Airflow**:
+6. **Running Apache Airflow**:
 
     To run Apache Airflow, port forward the Airflow web server:
 
@@ -97,7 +99,7 @@ Before you begin, ensure you have the following:
 
     Access the Airflow UI at [http://localhost:8080](http://localhost:8080) and use the Airflow credentials to log in.
 
-6. **Adding DAGs to Airflow**:
+7. **Adding DAGs to Airflow**:
 
     Copy your DAG files (e.g., `fetch_and_preview.py`, `hello.py`) into the DAGs folder of your Airflow deployment. The method of copying depends on your Airflow setup (e.g., using Persistent Volume, Git-sync).
 
